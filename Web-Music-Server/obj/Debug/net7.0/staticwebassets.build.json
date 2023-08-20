@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wOxzgsEu0RFwCtA/2FHZeIMGXn0ZLfpWjHw+0zCM04E=",
+  "Source": "Web-Music-Server",
+  "BasePath": "_content/Web-Music-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
